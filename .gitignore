@@ -1,0 +1,14 @@
+checkpoints
+classification
+data
+tmp_trainer
+real_world
+__pycache__
+
+# Chainlit files
+.files
+chainlit.md
+
+# Backup files
+*.bak
+.chainlit/
