@@ -2,7 +2,8 @@ checkpoints
 classification
 data
 tmp_trainer
-real_world
+real_world/*
+!real_world/*.ipynb
 __pycache__
 
 # Chainlit files
